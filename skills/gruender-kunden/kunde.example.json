@@ -1,0 +1,34 @@
+{
+  "business": "Moss Matcha Bar (ein Beispiel: ein Matcha-Café zum Mitnehmen in München)",
+  "target": "Berufstätige in der Stadt, 24 bis 38, die mindestens 4-mal pro Woche Kaffee kaufen",
+  "where": "München, rund um die Sendlinger Straße",
+  "age": [24, 38],
+  "segments": [
+    {"name": "Berufseinsteiger", "share": 0.45, "income": [38000, 85000]},
+    {"name": "Erfahrene Fachkraft", "share": 0.40, "income": [85000, 150000]},
+    {"name": "Gutverdiener", "share": 0.15, "income": [150000, 210000]}
+  ],
+  "behaviours": [
+    {"name": "Täglicher Stammkunde", "share": 0.20, "how": "Kauft die meisten Morgen dasselbe Getränk am selben Ort."},
+    {"name": "Gesundheit zuerst", "share": 0.18, "how": "Liest Etiketten und tauscht Kaffee gegen alles, was sauberer wirkt."},
+    {"name": "Trendjäger", "share": 0.15, "how": "Probiert alles Neue aus und postet darüber."},
+    {"name": "Wochenend-Belohner", "share": 0.15, "how": "Unter der Woche günstiger Kaffee, samstags etwas Besseres."},
+    {"name": "Schnäppchenjäger", "share": 0.12, "how": "Wartet auf ein Angebot und nutzt Treue-Apps."},
+    {"name": "Treu zum eigenen Café", "share": 0.10, "how": "Hat ein Lieblingscafé, und das Team kennt die Bestellung."},
+    {"name": "Liest jede Bewertung", "share": 0.10, "how": "Prüft die Google-Bewertungen, bevor er oder sie etwas Neues ausprobiert."}
+  ],
+  "objections": [
+    "6,50 € sind viel für ein Getränk",
+    "Mein Café ist näher dran",
+    "Schmeckt Matcha überhaupt gut?",
+    "Ist das wirklich gesünder als Kaffee?",
+    "Ich brauche einen Platz zum Sitzen und Arbeiten",
+    "Ich würde es einmal probieren, nicht täglich"
+  ],
+  "habits": [
+    "du gehst auf dem Weg ins Büro an der Sendlinger Straße vorbei",
+    "du arbeitest drei Tage die Woche im Homeoffice",
+    "du triffst samstags Freunde auf einen Kaffee",
+    "du gehst vor der Arbeit in ein Fitnessstudio in der Nähe vom Sendlinger Tor"
+  ]
+}

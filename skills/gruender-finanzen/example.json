@@ -1,0 +1,28 @@
+{
+  "business": "Moss Matcha Bar (ein Beispiel: ein Matcha-Café zum Mitnehmen in München)",
+  "unit": "Tasse",
+  "unit_plural": "Tassen",
+  "price": 6.50,
+  "variable": [
+    {"label": "Matcha (Zeremonienqualität, 2 g)", "cost": 0.92},
+    {"label": "Hafermilch", "cost": 0.38},
+    {"label": "Becher, Deckel, Strohhalm", "cost": 0.24},
+    {"label": "Kartengebühren", "cost": 0.20}
+  ],
+  "fixed_monthly": [
+    {"label": "Personal", "cost": 15500},
+    {"label": "Miete + Nebenkosten", "cost": 11040}
+  ],
+  "startup": [
+    {"label": "Mietkaution", "cost": 8400},
+    {"label": "Umbau", "cost": 6900},
+    {"label": "Ausstattung", "cost": 4250},
+    {"label": "Beschilderung", "cost": 1850},
+    {"label": "Erstbestand Ware", "cost": 2380},
+    {"label": "Werbung zum Start", "cost": 1500}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 600,
+  "plan_per_day": 383,
+  "ramp_per_day": [140, 170, 195, 215, 235, 250, 262, 272, 280, 287, 290, 292]
+}

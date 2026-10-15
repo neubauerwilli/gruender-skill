@@ -1,0 +1,23 @@
+{
+  "name": "gruender-skill",
+  "description": "Elf kostenlose Claude-Skills auf Deutsch, die dein Business testen, bevor du startest: ein Vorstand nach den Frameworks von Hormozi, Thiel und Jobs, ein Marketingchef, ein Finanzchef und ein Kundenpanel aus 100 KI-Käufern. Kostenlos, MIT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Willi Neubauer",
+    "url": "https://willineubauer.com"
+  },
+  "homepage": "https://github.com/neubauerwilli/gruender-skill",
+  "repository": "https://github.com/neubauerwilli/gruender-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "deutsch",
+    "gruender",
+    "startup",
+    "businessplan",
+    "unit-economics",
+    "marktvalidierung",
+    "subagents"
+  ]
+}

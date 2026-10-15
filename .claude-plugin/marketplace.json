@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gruender-skill",
+  "description": "Der Gründer-Skill für Claude, auf Deutsch",
+  "owner": {
+    "name": "Willi Neubauer",
+    "url": "https://willineubauer.com"
+  },
+  "plugins": [
+    {
+      "name": "gruender-skill",
+      "description": "Elf Claude-Skills, die dein Business testen, bevor du startest: Vorstand, Konkurrenz-Scout, Kundenpanel aus 100 KI-Käufern, Preis, Angebot, Finanzchef, Marketing, Marke, Betrieb, Startplan und Businessplan.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/neubauerwilli/gruender-skill"
+    }
+  ]
+}
